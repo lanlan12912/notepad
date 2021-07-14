@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f7dc4f-51f1-41ac-9c08-cc4d311fef10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="MybatisMapper" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\.m2\repository" />
+        <option name="userSettingsFile" value="G:\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vHua7gOo5Rvvd6DNa2osZBEO7d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notepad_base/src/main/resources/config" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Idea project\notepad\notepad_base\src\main\resources\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Idea project\notepad\notepad_base\src\main\resources\mapper\System" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NotepadBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="notepad_base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.notepad_base.NotepadBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f7dc4f-51f1-41ac-9c08-cc4d311fef10" name="Default Changelist" comment="" />
+      <created>1626231395745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626231395745</updated>
+      <workItem from="1626231397126" duration="2634000" />
+      <workItem from="1626247383239" duration="6126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="73" key="#HTTP_Proxy" timestamp="1626249343938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="73" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1626249343938" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1626249412247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1626249412247" />
+    <state x="463" y="53" key="FileChooserDialogImpl" timestamp="1626231915392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="53" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626231915392" />
+    <state width="1323" height="274" key="GridCell.Tab.0.bottom" timestamp="1626253887904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626253887904" />
+    <state width="1323" height="274" key="GridCell.Tab.0.center" timestamp="1626253887904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1626253887904" />
+    <state width="1323" height="274" key="GridCell.Tab.0.left" timestamp="1626253887904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1626253887904" />
+    <state width="1323" height="274" key="GridCell.Tab.0.right" timestamp="1626253887904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1626253887904" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1626253887893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626253887893" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1626253887893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1626253887893" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1626253887893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1626253887893" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1626253887893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1626253887893" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1626253887894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626253887894" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1626253887894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1626253887894" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1626253887894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1626253887894" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1626253887894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1626253887894" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1626249236421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1626249236421" />
+    <state x="323" y="67" key="NewModule_or_Project.wizard" timestamp="1626231432157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1626231432157" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1626251311017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1626251311017" />
+    <state x="384" y="96" width="598" height="536" key="find.popup" timestamp="1626253590025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="96" width="598" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1626253590025" />
+    <state x="57" y="24" key="new project wizard" timestamp="1626231512392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1626231512392" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/notepad_base/src/main/java/com/example/notepad_base/controller/HelloController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

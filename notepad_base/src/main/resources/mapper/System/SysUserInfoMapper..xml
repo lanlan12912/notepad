@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.notepad_base.mapper.SysUserInfoMapper">
+    <select id="findAllByUserName" parameterType="String"
+            resultType="com.example.notepad_base.entity.SystemEntity.SysUserInfo">
+        select
+        u.user_id userId,
+        u.user_count userCount,
+        u.user_name userName,
+        u.head_avatar headAvatar,
+        u.major major,
+        u.skill skill,
+        u.signature signature
+         from sys_user_info u where u.user_name = #{userName}
+    </select>
+
+</mapper>
